@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actionsemojiemojiemojiemojiemojiemoji
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -241,6 +241,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 ### What's next?
 
 - Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)".
+
 - Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions).
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 - [Take another GitHub Skills course](https://github.com/skills).
